@@ -7,5 +7,7 @@ I'm a Data Analyst with a Master's degree in Economics from Universidad de los A
 📊 Tools I use: R, Python, Excel, Power BI, Tableu, Datorama, SQL, GA4, Matlab, Cloud Solutions, Bigqueary
 🧪 Fields of interest: Data Analysis, Experimental Economics, Digital Marketing Measurement
 🌱 Currently learning: Machine Learning for Marketing and Bayesian MMM (Meridian)
+
 ✉️ Reach me at: velasquez_juan@javeriana.edu.co
+
 😄 Pronouns: he/him
